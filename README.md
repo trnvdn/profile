@@ -1,21 +1,23 @@
-Hi there! My name is Daniil.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil Ternovyi AKA artexxx!
+====================================================================================================================================================
+
 I'm a student of the Kharkiv National University of Radio Electronics, Faculty of Informatics.
 
-============================================================================
+* 🌍  I'm based in Kharkiv region 💙💛
+* ✉️  You can contact me at [ternovyidaniil@gmail.com](mailto:ternovyidaniil@gmail.com)
+* 🧠  I'm learning C#, & .Net
+* 🤝  I'm open to collaborating on interesting cases
 
-* From Kharkiv region, Ukraine
+### Skills
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
+### Socials
 
-Skills
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-* Contacts
-<img alt="Discourse users" src="https://img.shields.io/discourse/users?server=discord.com%2Fusers%2Fiseedevilinmyroom%233031">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Daniil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-ternovyi-6335b9249/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/daniil-ternovyi-6335b9249/))
-
-![Codewars](https://www.codewars.com/users/hardtry_samurai/badges/large)
+<p align="left"> <a href="https://discord.com/users/iseedevilinmyroom#3031" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/iseedevilinmyroom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniil-ternovyi-6335b9249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
