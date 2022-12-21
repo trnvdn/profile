@@ -1,4 +1,10 @@
-Hi! My name is Daniil, I'm a student of the Kharkiv National University of Radio Electronics, Faculty of Informatics.
+Hi there! My name is Daniil, I'm a student of the Kharkiv National University of Radio Electronics, Faculty of Informatics.
+
+===========================================================================================================================
+
+* From Kharkiv region, Ukraine 🇺🇦
+
+
 
 Skills
 
