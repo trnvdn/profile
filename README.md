@@ -16,6 +16,6 @@ Skills
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-ternovyi-6335b9249/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/daniil-ternovyi-6335b9249/))
 
 ![Codewars](https://www.codewars.com/users/hardtry_samurai/badges/large)
