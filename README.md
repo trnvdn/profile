@@ -5,7 +5,7 @@ I'm a student of the Kharkiv National University of Radio Electronics, Faculty o
 
 * 🌍  I'm based in Kharkiv region 💙💛
 * ✉️  You can contact me at [ternovyidaniil@gmail.com](mailto:ternovyidaniil@gmail.com)
-* 🧠  I'm learning C#, & .Net
+* 🧠  I'm learning C#.
 * 🤝  I'm open to collaborating on interesting cases
 
 ### Skills
