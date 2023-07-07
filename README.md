@@ -25,6 +25,7 @@ I'm a student of the Kharkiv National University of Radio Electronics, Faculty o
 ### Codewars
 <a href="https://www.codewars.com/users/hardtry_samurai/" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/hardtry_samurai/badges/large" alt="CSS3" /></a>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trnvdn&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trnvdn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
