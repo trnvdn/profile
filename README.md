@@ -1,4 +1,4 @@
-My name is Daniil Ternovyi AKA artexxx/multyhex
+My name is Daniil Ternovyi AKA artexxx/multihex
 ====================================================================================================================================================
 
 I'm a student of the Kharkiv National University of Radio Electronics, Faculty of Computer science.
