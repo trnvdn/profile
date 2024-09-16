@@ -3,7 +3,7 @@ My name is Daniil Ternovyi
 
 I'm a student of the Kharkiv National University of Radio Electronics, Faculty of Computer science.
 
-* 🌍  I'm based in Kharkiv region 💙💛
+* 🌍  I'm living in Kharkiv region 💙💛
 * ✉️  You can contact me at [ternovyidaniil@gmail.com](mailto:ternovyidaniil@gmail.com)
 * 🤝  I'm open to collaborating on interesting cases
 
